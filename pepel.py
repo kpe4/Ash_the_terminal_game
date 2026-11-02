@@ -1,13 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""ПЕПЕЛ — небольшой монохромный рогалик для терминала.
-
-Запуск:      python pepel.py
-Справка:     ?  в игре
-Демо-кадр:   python pepel.py --demo
-Проверка:    python pepel.py --selftest
-"""
-
 from __future__ import annotations
 
 import random
